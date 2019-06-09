@@ -104,6 +104,10 @@ h1 {
     .box:hover {
       background-color: rgba(225, 224, 226, 0.4);
     }
+
+    .box hr{
+      border-color: #062D31;
+    }
 }
 
 #music{
